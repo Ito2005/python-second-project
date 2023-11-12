@@ -1,6 +1,5 @@
-from assets.module import arquive
-from assets.biblioteca import *
+from index_biblioteca import *
 
 
 
-print(arquive.imagem())
+arquive.imagem()
