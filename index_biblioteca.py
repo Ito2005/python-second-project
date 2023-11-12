@@ -13,3 +13,5 @@ from assets.module.edit import arquive_txt
 from assets.module.edit import arquive_xlsx
 
 from assets.biblioteca import *
+
+from assets.User import user

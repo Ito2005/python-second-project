@@ -1,4 +1,4 @@
-#configure arquives
+from index_biblioteca import *
 from assets.biblioteca import *
 
 def imagem():
