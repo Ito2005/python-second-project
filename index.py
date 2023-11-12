@@ -1,3 +1,6 @@
-from index_biblioteca import *
+from assets.usuario import user
 
-arquive.imagem()
+
+user.criar_diretorio()
+user.escrita()
+user.leitura()
