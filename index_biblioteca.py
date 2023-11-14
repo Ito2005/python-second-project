@@ -18,4 +18,4 @@ from assets.module.edit import arquive_xlsx
 
 from assets.biblioteca import *
 
-from assets.usuario import user
+from assets.module.usuario import user
