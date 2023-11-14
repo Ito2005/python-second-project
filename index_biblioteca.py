@@ -4,9 +4,12 @@ from assets.module import arquive_convert
 from assets.module import arquive_email
 from assets.module import arquive_visualization
 
-from assets.module.installation import installation_imports
+from assets.basic.installation import installation_imports
+
+from assets.basic.msg_error import msg_error
 
 from assets.module.mensage import mensage_discord
+from assets.module.mensage import mensage_Whatsapp
 
 from assets.module.create import arquive_template_pptx
 from assets.module.create import arquive_template_xlsx
