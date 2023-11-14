@@ -10,5 +10,6 @@ import sys
 import os
 
 import subprocess
+import pymysql
 
 from collections import UserDict 
